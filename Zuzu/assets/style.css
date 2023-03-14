@@ -1,0 +1,32 @@
+.item {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    margin-top: 200px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+.item img {
+padding-top: 50px;
+}
+ul {
+    width: 100%;
+    list-style-type: none;
+    margin-left: 78%;
+    margin-top: 50px;
+}
+ul a{
+    
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 10px;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+    
+}
+ul li{
+    display: inline-block;    
+}
